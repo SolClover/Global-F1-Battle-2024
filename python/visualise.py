@@ -85,7 +85,7 @@ def create_charts(df, prev, curr, latest, race, race_bold):
 
         font=dict(family="Arial", size=font_size, color="white"),
         title=dict(
-            text='<b>Global F1 Battle 2025 League</b> (After ' + race + ')',
+            text='<b>Global F1 Battle 2024 League</b> (After ' + race + ')',
             x=0.5,
             y=0.98,
             font=dict(family='Arial', size=18, color='#ffffff')),
