@@ -37,3 +37,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Specific folders and files
+/f1_fantasy_api/
