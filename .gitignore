@@ -39,4 +39,4 @@ share/python-wheels/
 MANIFEST
 
 # Specific folders and files
-/f1_fantasy_api/
+f1_fantasy_api/
